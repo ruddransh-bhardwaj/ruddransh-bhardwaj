@@ -17,6 +17,9 @@ A passionate developer and CSE student from India 🇮🇳
 * 📫 How to reach me: **bhardwajruddransh@gmail.com** 
 
 ### Connect with me: 
+<a href="mailto:bhardwajruddransh@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruddransh-bhardwaj/) 
 
 ### Languages and Tools: 
