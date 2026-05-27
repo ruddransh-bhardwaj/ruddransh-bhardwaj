@@ -8,6 +8,8 @@
 
 A passionate developer and CSE student from India 🇮🇳
 
+![Profile Views](https://komarev.com/ghpvc/?username=Call-me-ruddra&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 * 🌱 I’m currently focused on **Data Science, Artificial Intelligence, and Machine Learning**
@@ -16,7 +18,7 @@ A passionate developer and CSE student from India 🇮🇳
 * 📫 How to reach me: **bhardwajruddransh@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruddransh-bhardwaj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruddransh-bhardwaj/) 
 
 ### Languages and Tools:
 <p align="left">
