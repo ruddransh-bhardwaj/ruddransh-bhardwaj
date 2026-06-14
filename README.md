@@ -11,7 +11,7 @@ A passionate developer and CSE student from India 🇮🇳
 
 --- 
 
-* 🌱 I’m currently focused on **Data Science, Artificial Intelligence, and Machine Learning** 
+* 🌱 I’m currently focused on **Data Science, Web Development, Artificial Intelligence, and Machine Learning** 
 * 👨‍💻 Check out my projects, including my voice-enabled AI chatbot (Jarvis) and open-source work (OS-linux1), at https://github.com/ruddransh-bhardwaj 
 * 💬 Ask me about **Python, Java, C++, C, SQL, and Web Development** 
 * 📫 How to reach me: **bhardwajruddransh@gmail.com** 
