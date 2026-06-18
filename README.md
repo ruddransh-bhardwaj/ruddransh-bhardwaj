@@ -5,7 +5,7 @@
 </div> 
 
 # Hi 👋, I'm Ruddransh Bhardwaj 
-A passionate developer and CSE student from India 🇮🇳 
+A passionate developer and CSE student from India 🇮🇳
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruddransh-bhardwaj&label=Profile%20views&color=0e75b6&style=flat) 
 
